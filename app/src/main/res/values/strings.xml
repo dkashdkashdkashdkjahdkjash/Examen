@@ -1,3 +1,33 @@
 <resources>
-    <string name="app_name">Examen</string>
+    <string name="app_name">Noticias CyL</string>
+    <string name="entrar">Entrar</string>
+    <string name="titulo">Titulo</string>
+    <string name="contenido">Contenido</string>
+    <string name="compartir">Compartir</string>
+    <string-array name="listaTitulos">
+        <item>Noticia de politica 1</item>
+        <item>Noticia de politica 2</item>
+        <item>Noticia de Economía 1</item>
+        <item>Noticia de economía 2</item>
+        <item>Noticia de cultura 1</item>
+        <item>Noticia de cultura 2</item>
+        <item>Noticia de deportes 1</item>
+        <item>Noticia de deportes 2</item>
+    </string-array>
+    <string-array name="listaContenidos">
+        <item>Contenido de la noticia de politica 1</item>
+        <item>Contenido de la noticia de politica 2</item>
+        <item>Contenido de la noticia de economía 1</item>
+        <item>Contenido de la noticia de economía 2</item>
+        <item>Contenido de la noticia de cultura 1</item>
+        <item>Contenido de la noticia de cultura 2</item>
+        <item>Contenido de la noticia de deportes 1</item>
+        <item>Contenido de la noticia de deportes 2</item>
+    </string-array>
+    <string-array name="listaCategorias">
+        <item>Politica</item>
+        <item>Economía</item>
+        <item>Cultura</item>
+        <item>Deportes</item>
+    </string-array>
 </resources>
