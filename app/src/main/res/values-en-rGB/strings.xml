@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CyL News</string>
+    <string name="entrar">Enter</string>
+    <string name="titulo">Tittle</string>
+    <string name="contenido">Content</string>
+    <string name="compartir">Share</string>
+    <string-array name="listaTitulos">
+        <item>Politics news 1</item>
+        <item>Politics news 2</item>
+        <item>Economy News 1</item>
+        <item>Economy News 2</item>
+        <item>Culture news 1</item>
+        <item>Culture news 2</item>
+        <item>Sports news 1</item>
+        <item>Sports news 2</item>
+    </string-array>
+    <string-array name="listaContenidos">
+        <item>Content of the politics news 1</item>
+        <item>Content of the politics news 2</item>
+        <item>Economy news content 1</item>
+        <item>Economy news content 2</item>
+        <item>Culture news content 1</item>
+        <item>Culture news content 2</item>
+        <item>Sports news content 1</item>
+        <item>Sports news content 2</item>
+    </string-array>
+    <string-array name="listaCategorias">
+        <item>Politics</item>
+        <item>Economy</item>
+        <item>Culture</item>
+        <item>Sports</item>
+    </string-array>
+</resources>
